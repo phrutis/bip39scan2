@@ -1,5 +1,7 @@
 # List of found passwords 7165 pcs.
-You can check your balance and transaction history by clicking on the address
+
+You can check your balance and transaction history by clicking on the address<br>
+Empty password slots have space(s)
 
 | Found address | Pach | Password |
 |:-----------------------|:----------------|:--------------|
