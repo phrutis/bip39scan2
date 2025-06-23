@@ -1,4 +1,4 @@
-There are no active wallets in this list.
+# List of found passwords 7165 pcs.
 
 | Found address | Pach | Password |
 |:-----------------------|:----------------|:--------------|
