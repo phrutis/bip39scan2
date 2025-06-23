@@ -117,6 +117,13 @@ Each address must be on a new line.<br>
 Ethereum addresses must be 0x...<br>
 Bitcoin addresses 1.., 3.., bc.. (New long addresses bc.. does not accept)
 
+# BONUS
+Generator based on the vulnerable libbitcoin library v3.2 for Linux and Windows.<br>
+For the convenience of generating vulnerable phrases, ```bx.py``` has been added.<br>
+Script with the required selection of values ​​(multicpu).<br>
+Run: ```py bx.py```<br>
+The first version of the [**bip39scan**](https://github.com/phrutis/bip39scan) program with the source code is included as a gift
+
 
 
 ## Building on Windows VS-2022
