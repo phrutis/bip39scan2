@@ -30,9 +30,9 @@ Don't ask about the balances of the finds. <br>
 If you are interested, search the transaction history by date.<br>
 
 List of found passwords 7165 pcs.t.<br>
-You can see the [**list of FOUNDS passwords**](https://github.com/phrutis/bip39scan2/blob/main/FOUNDS.md) or download [CSV](https://github.com/phrutis/bip39scan2/blob/main/Founds_CSV.txt) for Emeditor<br>
+You can see the [**list of FOUNDS passwords**](https://github.com/phrutis/bip39scan2/blob/main/FOUNDS.md) or download [**CSV**](https://github.com/phrutis/bip39scan2/releases/download/2.0.1/Founds_CSV.txt) for Emeditor<br>
 According to the analysis of the findings, almost all accounts are ether (a little Bitcoin)<br>
-You can check the findings in the modification of the popular phrase generator [bip39scan.html](https://github.com/phrutis/bip39scan2/blob/main/bip39scan.html)<br>
+You can check the findings in the modification of the popular phrase generator [bip39scan.html](https://github.com/phrutis/bip39scan2/releases/download/2.0.1/bip39scan.html)<br>
 Open the page using a browser (works autonomously + offline)<br>
 In this generator, you can also create a test password to test the program
 
