@@ -121,10 +121,10 @@ Bitcoin addresses 1.., 3.., bc.. (New long addresses bc.. does not accept)
 Generator based on the vulnerable libbitcoin library v3.2 for Linux and Windows.<br>
 For the convenience of generating vulnerable phrases, ```bx.py``` has been added.<br>
 Script with the required selection of values ​​(multicpu).<br>
-Run: ```py bx.py```<br>
+Run: ```py bx.py```<br> (python3 bxlin.py for linux)<br>
 The first version of the [**bip39scan**](https://github.com/phrutis/bip39scan) program with the source code is included as a gift
 
-
+![Image](https://github.com/user-attachments/assets/43daffcb-1438-4435-b52e-fc9508c8dbed)
 
 ## Building on Windows VS-2022
 
