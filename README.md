@@ -96,17 +96,17 @@ Create and use binary databases.<br>
 The program will start in seconds<br>
 Create databases:<br>
 BTC<br>
-```bip39scan.exe --save Found.txt -a btc1.txt --save-bin btc1.bin -p m/44'/0'/0'/0/0-9 --alphabet alpha.txt --start A```<br>
-```bip39scan.exe --save Found.txt -a btc3.txt --save-bin btc3.bin -p m/49'/0'/0'/0/0-9 --alphabet alpha.txt --start A```<br>
-```bip39scan.exe --save Found.txt -a btc-bc.txt --save-bin btc-bc.bin-p m/84'/0'/0'/0/0-9 --alphabet alpha.txt --start A```
+```bip39scan.exe --save Found.txt -a btc1.txt -t P2PKH --save-bin btc1.bin -p m/44'/0'/0'/0/0-9 --alphabet alpha.txt --start A```<br>
+```bip39scan.exe --save Found.txt -a btc3.txt -t P2SH --save-bin btc3.bin -p m/49'/0'/0'/0/0-9 --alphabet alpha.txt --start A```<br>
+```bip39scan.exe --save Found.txt -a btc-bc.txt -t bech32 --save-bin btc-bc.bin-p m/84'/0'/0'/0/0-9 --alphabet alpha.txt --start A```
 
 ETH and tokens<br>
 ```bip39scan.exe --save Found.txt -a eth_addresses.txt --save-bin eth.bin -t ethereum -p m/44'/60'/0'/0/0-9 --alphabet alpha.txt --start A```
 
 Next launches run like this<br>
-```bip39scan.exe --save Found.txt -a btc1.bin -p m/44'/0'/0'/0/0-9 --alphabet alpha.txt --start A```<br>
-```bip39scan.exe --save Found.txt -a btc3.bin -p m/49'/0'/0'/0/0-9 --alphabet alpha.txt --start A```<br>
-```bip39scan.exe --save Found.txt -a btc-bc.bin-p m/84'/0'/0'/0/0-9 --alphabet alpha.txt --start A```<br>
+```bip39scan.exe --save Found.txt -a btc1.bin -t P2PKH -p m/44'/0'/0'/0/0-9 --alphabet alpha.txt --start A```<br>
+```bip39scan.exe --save Found.txt -a btc3.bin -t P2SH -p m/49'/0'/0'/0/0-9 --alphabet alpha.txt --start A```<br>
+```bip39scan.exe --save Found.txt -a btc-bc.bin -t bech32 -p m/84'/0'/0'/0/0-9 --alphabet alpha.txt --start A```<br>
 ```bip39scan.exe --save Found.txt -a eth.bin -t ethereum -p m/44'/60'/0'/0/0-9 --alphabet alpha.txt --start A```
 
 
