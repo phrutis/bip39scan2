@@ -1,8 +1,8 @@
 # List of found passwords 7165 pcs.
 
 You can check your balance and transaction history by clicking on the address<br>
-Empty password slots have space(s)
-If ETH balance is empty, see its tokens
+Empty password slots have space(s)<br>
+If ETH balance is empty, see its tokens<br>
 ex. https://www.blockchain.com/ru/explorer/addresses/eth/0x79c3fff566db26e67fbef9c3d6ca36a642e3315d
 
 | Found address | Pach | Password |
