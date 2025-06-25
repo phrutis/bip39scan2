@@ -18,6 +18,7 @@ The fact remains that thousands of phrases are at risk.<br>
 ![Image](https://github.com/user-attachments/assets/335d0cc1-e37e-4906-a07c-2836111d6486)
 
 A modification bip39scan v2 was developed for this vulnerability<br>
+Only CUDA cards support GTX, RTX, CMP<br>
 Brute speed:<br>
 RTX 4090 = 520k/s<br>
 RTX 5090 = 800k/s<br>
