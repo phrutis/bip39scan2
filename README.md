@@ -134,6 +134,17 @@ The first version of the [**bip39scan**](https://github.com/phrutis/bip39scan) p
 
 ![Image](https://github.com/user-attachments/assets/43daffcb-1438-4435-b52e-fc9508c8dbed)
 
+
+## FAQ
+Made from a 25 GB address base a 11 GB bin base with an error when starting:<br>
+```Kernel memory: 8128MNo enough memory in dev #0 for bloom filter allocation```
+
+Allocate more memory for the bloom filter.<br>
+Add an argument to the startup line ```--bloom 2048M```
+<hr>
+
+
+
 ## Building on Windows VS-2022
 
 Install cmake 3.30+ from this link: https://github.com/Kitware/CMake/releases/download/v3.31.8/cmake-3.31.8-windows-x86_64.msi<br>
