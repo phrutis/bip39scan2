@@ -140,7 +140,8 @@ Made from a 25 GB address base a 11 GB bin base with an error when starting:<br>
 ```Kernel memory: 8128MNo enough memory in dev #0 for bloom filter allocation```
 
 Allocate more memory for the bloom filter.<br>
-Add an argument to the startup line ```--bloom 2048M```
+Add an argument to the startup line ```--bloom 2048M```<br>
+base.bin - 22 GB+ USE ```--bloom 4096M```
 <hr>
 
 
