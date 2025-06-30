@@ -1,6 +1,13 @@
-# Modified version of bip39scan v2.0.1 - For sale $500
+# Modified version of bip39scan v2.1.7 - For sale $250
 To purchase, write to telegram ```@phrutis``` or buy from a bot in a group [t.me/cuda8](https://t.me/cuda8)
 
+Updates:<br>
+1. Added a patch for the found address to the window and file.<br>
+2. Output of the find to the file is now CSV.<br>
+3. Added Status.txt (every 5 minutes the last position of the brute is written).<br>
+4. When reading a dictionary from a file, a processbar with the output of % progress was added.<br>
+5. Minor changes.
+<hr>
 A new vulnerability has been discovered - thousands of mnemonic phrases are at risk.<br>
 All applications and generators of mnemonic phrases accept only 2048 standard words.<br>
 Phrases of length 3,6,9,12,15,18,21,24 words and not all of them, only valid phrases.<br>
