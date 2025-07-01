@@ -279,7 +279,7 @@ for the client-server version, install boost:<br>
 $ sudo apt-get install libboost-all-dev
 
 You will need Boost version at least 1.71. If apt-get does not intall at least 1.71, build Boost from source:
-$ wget https://boostorg.jfrog.io/artifactory/main/release/1.71.0/source/boost_1_71_0.tar.gz<br>
+$ wget https://archives.boost.io/release/1.71.0/source/boost_1_71_0.tar.gz<br>
 $ tar -xzvf boost_1_71_0.tar.gz<br>
 $ cd boost_1_71_0<br>
 $ ./bootstrap.sh --prefix=/usr && ./b2 stage threading=multi link=static<br>
