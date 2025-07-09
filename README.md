@@ -134,12 +134,13 @@ Bitcoin addresses 1.., 3.., bc.. (New long addresses bc.. does not accept)
 
 # Download ready-made address databases for bip39scan
 
-**ALL ETH 1145590543 addresses** with balance 20/05/2025 + empty + ALL ETH TOKENS with balance + empty history:<br>
+**ALL ETH 1458757703 addresses with balance 09/07/2025** + empty + ALL ETH TOKENS with balance 09/07/2025 + empty history:<br>
 ARBITRUM, AVALANCHE, BASE, BNB, BSC, BTT, CRONOS, CELO, ETC, Ethereumnie, ERA, ERC20, ETH, Ethered, FANTOM, <br>
 GETH (Goerli), GNOSIS, IOTX, LINEA, MOONBEAM, MOONRIVER, OPBNB, OPTIMISM, POLYGON, VET, ZKEVM-POLYGON...<br>
 Add these arguments to run ```--bloom 4096M -t ethereum```<br>
-(The database fits on a 12 GB card or more)<br>
-Download http://89.23.98.83/up/alleth.bin  **22.5 GB**
+**Doesn't start on 8 GB cards! The database fits on a 12 GB card or more.** <br>
+**To run you need 32 GB of RAM (if you don't have that much, you can use the swap file)** <br>
+Download http://89.23.98.83/up/alleth.bin  **29 GB**
 
 **ALL BTC addresses 1...** P2PKH with balance + empty (history)<br>
 Add these arguments to run ```--bloom 2048M -t P2PKH```<br>
