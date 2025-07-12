@@ -187,7 +187,17 @@ Add an argument to the startup line ```--bloom 2048M```<br>
 base.bin - 22 GB+ USE ```--bloom 4096M```
 <hr>
 
+Frequently asked question does bip39scan support Solana, Tron...? - No.<br>
+You can hire a programmer, he will add the necessary coins, the source code comes with the program.<br>
 
+There is an alternative option. Convert the coin addresses into Ripemd160 hashes. <br>
+They must be optimized 000... 0ff<br>
+Run the program with the solana.bin database, specify the coin type, for example -t P2PKH<br>
+You will find an empty BTC address 1.. you don't need it!<br>
+Take the found mnemonic phrase, generate an address tree or paste it into the application..<br>
+Take the private key, generate a specific Solana address found. <br>
+I don't have a Solana address database, haven't tried it, in theory it should work.<br>
+<hr>
 
 ## Building on Windows VS-2022
 
