@@ -1,5 +1,6 @@
 # Modified version of bip39scan v2.1.7 - For sale $250
-To purchase, write to telegram ```@phrutis``` or buy from a bot in a group [t.me/cuda8](https://t.me/cuda8)
+To purchase, write to telegram ```@phrutis``` or buy from a bot in a group [t.me/cuda8](https://t.me/cuda8)<br>
+**This version of the program (and [bip39scan v1](https://github.com/phrutis/bip39scan)) is FREE in the BONUS folder when you purchase [bip39scan v3](https://github.com/phrutis/bip39scan3)**
 
 Updates:<br>
 1. Added a patch for the found address to the window and file.<br>
